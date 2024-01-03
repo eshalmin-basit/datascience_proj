@@ -1,3 +1,6 @@
+#this is a python code for creating an interactive web app on the that of gss2016, the dataset can be found on kaggle. 
+#i was gonna upload the dataset as well but the file was too large.
+
 import pandas as pd
 import streamlit as st
 import plotly.express as px
